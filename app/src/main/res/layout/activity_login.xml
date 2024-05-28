@@ -26,6 +26,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/email"
+            android:textColor="@color/black"
             android:background="#EEDFA2"
             android:hint="@string/email"/>
     </com.google.android.material.textfield.TextInputLayout>
@@ -37,6 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/password"
+            android:textColor="@color/black"
             android:background="#EEDFA2"
             android:hint="@string/password"/>
     </com.google.android.material.textfield.TextInputLayout>

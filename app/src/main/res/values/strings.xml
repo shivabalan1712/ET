@@ -6,4 +6,14 @@
     <string name="register">REGISTER</string>
     <string name="click_here_to_login">Click Here to Login</string>
     <string name="click_here_to_register">Click here to register</string>
+    <string name="title_activity_bottom_navigation">Bottom_Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_our_app">Welcome to Our App!</string>
+    <string name="todo">TODO</string>
+    <string name="hello_user_name">Hello User_name!</string>
+    <string name="name">Name</string>
 </resources>
